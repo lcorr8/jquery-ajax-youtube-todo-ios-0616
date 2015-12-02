@@ -137,3 +137,5 @@ $(".super-classy").html("<p>hello world</p>");
   * [jQuery Docs](http://api.jquery.com/) - [Val Function](http://api.jquery.com/val/)
   * [jQuery Docs](http://api.jquery.com/) - [AJAX Call](http://api.jquery.com/jquery.ajax/)
   * [jQuery Docs](http://api.jquery.com/) - [HTML Function](http://api.jquery.com/html/)
+
+<a href='https://learn.co/lessons/jquery-ajax-youtube-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
